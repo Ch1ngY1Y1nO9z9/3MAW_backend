@@ -20,8 +20,8 @@
         gtag('config', 'G-GXF49ZEXBX');
     </script>
 
-    @yield('recaptcha') -->
-
+    -->
+    @yield('recaptcha')
 
     <link href="/css/tailwind.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.4/swiper-bundle.css" />
